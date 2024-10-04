@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Portfolio.github.io/static/css/main.a594bc51.css",
-    "main.js": "/Portfolio.github.io/static/js/main.c09b607f.js",
-    "static/media/project-2.png": "/Portfolio.github.io/static/media/project-2.f2fef4ba4c29cff58286.png",
-    "static/media/project-3.jpeg": "/Portfolio.github.io/static/media/project-3.79427e102b8685042858.jpeg",
-    "static/media/project-4.jpeg": "/Portfolio.github.io/static/media/project-4.9d8e04368f3dbe6dbc45.jpeg",
-    "static/media/Shreya_Resume.pdf": "/Portfolio.github.io/static/media/Shreya_Resume.946986f9f3a0a1a98be6.pdf",
-    "static/media/project-5.jpg": "/Portfolio.github.io/static/media/project-5.8229edda4463b3766a44.jpg",
-    "static/media/project-8.jpg": "/Portfolio.github.io/static/media/project-8.d45712f4d4c012c21eb4.jpg",
-    "static/media/project-6.jpg": "/Portfolio.github.io/static/media/project-6.0df5ba0ab128ef7bc515.jpg",
-    "static/media/project-7.jpeg": "/Portfolio.github.io/static/media/project-7.7a198b51d8a38c69a962.jpeg",
-    "static/media/home.jpg": "/Portfolio.github.io/static/media/home.f88af1dbf4d1dca25fd6.jpg",
-    "static/media/close.svg": "/Portfolio.github.io/static/media/close.5bec4f69e1bbfff50fdfacd4eaff052a.svg",
-    "index.html": "/Portfolio.github.io/index.html",
-    "main.a594bc51.css.map": "/Portfolio.github.io/static/css/main.a594bc51.css.map",
-    "main.c09b607f.js.map": "/Portfolio.github.io/static/js/main.c09b607f.js.map"
+    "main.css": "/portfolio/static/css/main.a594bc51.css",
+    "main.js": "/portfolio/static/js/main.a1f0d067.js",
+    "static/media/project-2.png": "/portfolio/static/media/project-2.f2fef4ba4c29cff58286.png",
+    "static/media/project-3.jpeg": "/portfolio/static/media/project-3.79427e102b8685042858.jpeg",
+    "static/media/project-4.jpeg": "/portfolio/static/media/project-4.9d8e04368f3dbe6dbc45.jpeg",
+    "static/media/Shreya_Resume.pdf": "/portfolio/static/media/Shreya_Resume.946986f9f3a0a1a98be6.pdf",
+    "static/media/project-5.jpg": "/portfolio/static/media/project-5.8229edda4463b3766a44.jpg",
+    "static/media/project-8.jpg": "/portfolio/static/media/project-8.d45712f4d4c012c21eb4.jpg",
+    "static/media/project-6.jpg": "/portfolio/static/media/project-6.0df5ba0ab128ef7bc515.jpg",
+    "static/media/project-7.jpeg": "/portfolio/static/media/project-7.7a198b51d8a38c69a962.jpeg",
+    "static/media/home.jpg": "/portfolio/static/media/home.f88af1dbf4d1dca25fd6.jpg",
+    "static/media/close.svg": "/portfolio/static/media/close.5bec4f69e1bbfff50fdfacd4eaff052a.svg",
+    "index.html": "/portfolio/index.html",
+    "main.a594bc51.css.map": "/portfolio/static/css/main.a594bc51.css.map",
+    "main.a1f0d067.js.map": "/portfolio/static/js/main.a1f0d067.js.map"
   },
   "entrypoints": [
     "static/css/main.a594bc51.css",
-    "static/js/main.c09b607f.js"
+    "static/js/main.a1f0d067.js"
   ]
 }
