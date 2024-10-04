@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.a594bc51.css",
+    "main.js": "/Portfolio/static/js/main.d53d0d3c.js",
+    "static/media/project-2.png": "/Portfolio/static/media/project-2.f2fef4ba4c29cff58286.png",
+    "static/media/project-3.jpeg": "/Portfolio/static/media/project-3.79427e102b8685042858.jpeg",
+    "static/media/project-4.jpeg": "/Portfolio/static/media/project-4.9d8e04368f3dbe6dbc45.jpeg",
+    "static/media/Shreya_Resume.pdf": "/Portfolio/static/media/Shreya_Resume.946986f9f3a0a1a98be6.pdf",
+    "static/media/project-5.jpg": "/Portfolio/static/media/project-5.8229edda4463b3766a44.jpg",
+    "static/media/project-8.jpg": "/Portfolio/static/media/project-8.d45712f4d4c012c21eb4.jpg",
+    "static/media/project-6.jpg": "/Portfolio/static/media/project-6.0df5ba0ab128ef7bc515.jpg",
+    "static/media/project-7.jpeg": "/Portfolio/static/media/project-7.7a198b51d8a38c69a962.jpeg",
+    "static/media/home.jpg": "/Portfolio/static/media/home.f88af1dbf4d1dca25fd6.jpg",
+    "static/media/close.svg": "/Portfolio/static/media/close.5bec4f69e1bbfff50fdfacd4eaff052a.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.a594bc51.css.map": "/Portfolio/static/css/main.a594bc51.css.map",
+    "main.d53d0d3c.js.map": "/Portfolio/static/js/main.d53d0d3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a594bc51.css",
+    "static/js/main.d53d0d3c.js"
+  ]
+}
